@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TerryLiu18. I am currently a second-year graduate student at UCSD with a background in machine learning and data science (enrolled as a PhD student). 
+- 👋 Hi, I’m @TerryLiu18. I am currently a software engineer working on recommendation and search.
 - 👀 I’m interested in problems related to machine learning and large-scale data systems, such as information retrieval (modern search engine), recommender systems, data systems for ML, personalized information feeds and natural language processing. 
-- 🌱 I’m currently learning Modern C++, in-depth knowledge about databases and data systems
 - 💞️ I’m looking to collaborate on projects related to natural language processing, information retrieval, large-scale data systems, etc
 - 📫 Email: liuterry18@gmail.com
 
